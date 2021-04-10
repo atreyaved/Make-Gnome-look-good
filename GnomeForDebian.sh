@@ -1,6 +1,8 @@
 #!/bin/bash
 
 sudo apt install gnome-shell-extensions
+sudo apt install unzip
+sudo apt install wget
 gsettings set org.gnome.shell enabled-extensions "['dash-to-dock@micxgx.gmail.com', 'TopIcons@phocean.net', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'Hide_Activities@shay.shayel.org', 'Move_Clock@rmy.pobox.com', 'appindicatorsupport@rgcjonas.gmail.com', 'pixel-saver@deadalnix.me', 'RemoveAppMenu@rastersoft.com', 'gnomeGlobalAppMenu@lestcape']"
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-position 'LEFT'
 
