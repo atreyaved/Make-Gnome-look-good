@@ -7,9 +7,6 @@ sudo apt install wget
 git clone https://github.com/atreyaved/MakingGnomeLookGoodFiles.git
 cd MakingGnomeLookGoodFiles
 
-git clone https://github.com/atreyaved/MakingGnomeLookGoodFiles.git
-cd MakingGnomeLookGoodFiles
-
 unzip Orchis-dark.zip
 unzip material_cursors.zip
 unzip Canta.zip
